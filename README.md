@@ -8,8 +8,7 @@ To make this project work in your local machine, after cloning the project using
 
 ### `git clone https://github.com/tomas050302/omnistackweek10.git`
 
-You need to create a file named `mongooseSettings.js` inside the `config` folder inside `backend`.
-Inside this folder you just need to get your mongoose access url and paste it after
+You need to create a folder named **config** inside the `backend` folder, and then, inside of it create a file named `mongooseSettings.js`.
+On the code of this folder you just need to get your mongoose access url and paste like this
 
 ### `module.exports = 'your url'`
-
