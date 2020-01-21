@@ -1,4 +1,4 @@
-backend/src/index.js
+backend/src/config/mongooseSettings.js
 backend/node_modules
 web/node_modules
 mobile/node_modules
