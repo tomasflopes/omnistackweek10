@@ -1,14 +1,34 @@
-# Project
+<h1 align="center">Welcome to OmniStackWeek 10 👋</h1>
+<p>
+  <a href="https://twitter.com/tomas050302" target="_blank">
+    <img alt="Twitter: tomas050302" src="https://img.shields.io/twitter/follow/tomas050302.svg?style=social" />
+  </a>
+</p>
 
-This project was developed in the OmniStack Week 10 by [RocketSeat](https://rocketseat.com.br/), it uses all the power of JavaScript with the Full Stack development using NodeJS, ReactJS and React-Native to put up an application that finds developers according to a given working technology.
+> This project was developed in the OmniStack Week 10 by [RocketSeat](https://rocketseat.com.br/), it uses all the power of JavaScript with the Full Stack development using NodeJS, ReactJS and React-Native to put up an application that finds developers according to a given working technology.
 
-## Configuration
+## Install
 
-To make this project work in your local machine, after cloning the project using:
+```sh
+yarn
+```
 
-### `git clone https://github.com/tomas050302/omnistackweek10.git`
+## Usage
 
-You need to create a folder named **config** inside the `backend` folder, and then, inside of it create a file named `mongooseSettings.js`.
-On the code of this folder you just need to get your mongoose access url and paste like this
+```sh
+yarn start
+```
 
-### `module.exports = 'your url'`
+## Author
+
+👤 **Tomás Lopes**
+
+* Twitter: [@tomas050302](https://twitter.com/tomas050302)
+* Github: [@tomas050302](https://github.com/tomas050302)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
