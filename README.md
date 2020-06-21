@@ -26,6 +26,10 @@ yarn start
 * Twitter: [@tomas050302](https://twitter.com/tomas050302)
 * Github: [@tomas050302](https://github.com/tomas050302)
 
+## Beyond the challenge
+
+I've gone beyond the challenge and implemented some additional features, like removing devs, either in the backend and frontend.
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
